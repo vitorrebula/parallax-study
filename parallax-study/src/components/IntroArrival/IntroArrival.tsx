@@ -55,7 +55,7 @@ export function IntroArrival() {
             {timeTogether.years > 0 && `${timeTogether.years} anos, `}
             {timeTogether.months} meses e {timeTogether.days} dias
             <br />
-            de um amor pra vida toda
+            de nós dois!
             </p>
         </div>
       </Parallax>
